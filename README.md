@@ -94,8 +94,6 @@ I'm focusing on consistency over trying to learn everything at once.
 
 📧 *Email:* [trushikamaharana@gmail.com](mailto:trushikamaharana@gmail.com)
 
-💻 *GitHub:* [@Akshat-code17](https://github.com/Akshat-code17)
-
 ---
 
 ### ⚡ A little about my journey
